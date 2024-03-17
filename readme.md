@@ -1463,6 +1463,7 @@
 | [Free icons svg](https://iconmonstr.com/arrow-right-lined-svg/) | Free icons and svg|
 | [Symbol valley](https://symbl.cc/en/tools/word-counter/) | Free icons and symbols|
 | [TYpescale](https://typescale.com/) | Font size scale|
+| [Background remover](https://www.experte.com/background-remover) | Free background remover|
 
 
 <div align="right">
