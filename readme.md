@@ -365,7 +365,6 @@
 | [Mobirise Icons](https://mobiriseicons.com/)| A free, open source set of 150 elegant, pixel-perfect linear icons, available as web icon font and SVG icons. |
 | [Hero Icons](https://heroicons.dev/)| Free Open Source Svg Icon Library |
 | [React Icons](https://react-icons.github.io/react-icons/)| An Open Source and free Svg Icon Library, it is a collection of your favorite icon libraries like Font Awesome and Material Icons to provide you with a wide range of SVG icons to choose from.  |
-| [Unicopy](https://unicopy.cc/)| Copy unicode characters and symbols! |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -635,7 +634,6 @@
 | [Pico.css](https://picocss.com/) | Elegant styles for all natives HTML elements without .classes and dark mode automatically enabled. |
 | [clay.css](https://github.com/codeAdrian/clay.css) | Extensible and configurable micro CSS util class and SASS mixin for adding claymorphism styles to your components. |
 | [BeerCSS](https://www.beercss.com) | Build Material Design interfaces in record time, without stress for devs 🍻. The first CSS framework that implements Material Design 3. |
-| [daisyUI](https://daisyui.com/) | Tons of components use with Tailwind CSS but write fewer class names. |
 | [UnoCSS](https://unocss.dev/) | UnoCSS is the instant atomic CSS engine, that is designed to be flexible and extensible. The core is un-opinionated, and all the CSS utilities are provided via presets. |
 | [Neptune CSS](neptunecss.org) | Neptune CSS is a lightweight CSS framework. Use it to develop your websites faster. |
 | [StyleX](https://stylexjs.com/) | StyleX is a simple, easy-to-use JavaScript syntax and compiler for styling web apps. |
@@ -654,6 +652,7 @@
 | [Atomic CSS](https://acss.io/) | Atomic CSS is the approach to CSS architecture that favors small, single-purpose classes with names based on visual function. |
 | [BEM](http://getbem.com/) | Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development. |
 | [SMACSS](http://smacss.com/) | SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. |
+| [CUBE](https://cube.fyi/) | CUBE CSS is a CSS methodology that’s orientated towards simplicity, pragmatism and consistency. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -756,7 +755,7 @@
 | [ApexCharts.Js](https://apexcharts.com/)|Modern & Interactive Open-source Charts |
 | [Chartist](http://gionkunz.github.io/chartist-js/index.html)|Simple responsive charts |
 | [Vizzu](https://lib.vizzuhq.com/0.3.0/)| Vizzu - a free, open-source Javascript library for building animated charts, data stories, and interactive explorers. |
-| [AntV](https://charts.ant.design/en)|Ant Design Charts, free JS Charts library for dynamic data with excellent documentation |
+| [AntV](https://ant-design-charts.antgroup.com/en/)|Ant Design Charts, free JS Charts library for dynamic data with excellent documentation |
 | [Nivo](https://nivo.rocks/)|Nivo provides supercharged React components to easily build dataviz apps, it's built on top of d3. Also comes with server side rendering ability and fully declarative charts.|
 | [Echarts](https://echarts.apache.org/en/index.html)|An Open Source JavaScript Visualization Library with declarative syntax for Rapid Construction of Web-based Visualization |
 
@@ -829,6 +828,7 @@
 |[Sonner](https://sonner.emilkowal.ski/) | An opinionated toast component for React. |
 |[Pines](https://devdojo.com/pines) | Pines is a library of animations, sliders, tooltips, accordions, modals, and more! It's a set of UI elements that can be copy and pasted into any Alpine and Tailwind projects. |
 |[Kuma UI](https://www.kuma-ui.com/) | With Kuma UI's headless, zero-runtime UI components, build top-performing websites effortlessly, while enjoying the best developer experience. Say hello to the future of CSS-in-JS. |
+|[Preline UI](https://preline.co/index.html) | Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -906,6 +906,7 @@
 | [Carbon React](https://carbondesignsystem.com/developing/frameworks/react/)| Extensive library of React components for Websites and UI's. Based on the Carbon Design System from IBM |
 | [React Aria](https://react-spectrum.adobe.com/react-aria/) | A library of React Hooks that provides accessible UI primitives for your design system. |
 | [shadcn/ui](https://ui.shadcn.com/) | Beautifully designed components built with Radix UI and Tailwind CSS. |
+| [Tremor](https://tremor.so/) | React components to build charts and dashboards with |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1081,6 +1082,7 @@
 | [Pr1mer Guidelines](https://guidelines.pr1mer.tech) | An open source set of very general guidelines, inspired by Human Interface. Created and maintained by Pr1mer Tech |
 | [Patterfly](https://www.patternfly.org/) | PatternFly is an open source design system from Red Hat, Inc. |
 | [Patterns](https://www.patterns.dev) | A resource to improve on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.|
+| [Design Principles For Developers](https://medium.com/design-bootcamp/the-ultimate-design-principles-guide-for-developers-d4aa58937283) | A resource to improve Design principles and guidelines for developers.|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1377,6 +1379,8 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                       |
 | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [Leonardo.Ai](https://leonardo.ai/) | Leonardo AI is an AI-powered design tool that can help you create designs based on reference images. |
+| [Galileo AI](https://www.usegalileo.ai/) | Galileo AI is a UI generation platform for easy and fast design ideation. It allows users to generate interface designs from text. |
+| [ImgGen.Ai](https://imggen.ai/) | ImgGen AI is a free AI-powered image generator and enhancement tool. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1388,6 +1392,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                       |
 | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Figpeek](https://figpeek.vercel.app/) | Figpeek is a new Figma and GitHub thumbnail generator. |
 | [Image Extractor](https://extract.pics/) | Online tool for extracting all images and SVGs of a website, all you is just to drop the URL |
 | [Vertopal](https://www.vertopal.com/) | Free online platform for converting computer files to a variety of file formats |
 | [everysize.kibalabs.com](https://everysize.kibalabs.com/) | Check your awesome responsive webpage looks great in every size |
@@ -1445,6 +1450,8 @@
 | [Clipperly](https://clipperly.com/) | All-in-one free online file service, convert, edit and optimize your files.  |
 | [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) | Test and optimize page load speed |
 | [Code Beautify](https://codebeautify.org/) | Free Online Tools like Code Beautifiers, Code Formatters, Editors, Viewers, Minifier, Validators, Converters for Developers|
+| [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/) | An interactive cheatsheet of Vue, Vue Router, and Pinia. The only Vue CheatSheet you will ever need. |
+| [appydev](https://appydev.co/) | A collection of awesome tools, resources and products for people who create and live on the internet. |
 
 
 ## personal
