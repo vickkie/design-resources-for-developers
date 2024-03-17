@@ -1455,6 +1455,7 @@
 | [Gsap repo](https://natsci.manoa.hawaii.edu/rw_common/plugins/stacks/gsap/) | Free Gsap files all |
 | [Free icons svg](https://iconmonstr.com/arrow-right-lined-svg/) | Free icons and svg|
 | [Symbol valley](https://symbl.cc/en/tools/word-counter/) | Free icons and symbols|
+| [TYpescale](https://typescale.com/) | Font size scale|
 
 
 <div align="right">
