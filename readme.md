@@ -1468,6 +1468,7 @@
 | [TYpescale](https://typescale.com/) | Font size scale|
 | [Background remover](https://www.experte.com/background-remover) | Free background remover|
 | [Best mockups](https://mockcity.com/) | Free placement psd / use behance
+| [Fluid Fonts](https://www.fluid-type-scale.com) | Fluid Font size Design
 
 
 <div align="right">
