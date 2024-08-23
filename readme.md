@@ -57,16 +57,12 @@
 | [Undraw.co](https://undraw.co/)                                                                          | Open-source illustrations for any idea you can imagine and create  |
 | [Manypixels.co](https://www.manypixels.co/gallery/)                                                      | Monochromatic, Isometric high-quality illustrations                |
 | [Open Peeps](https://www.openpeeps.com/)                                                                 | Hand drawn illustration library                                    |
-| [UI Space](https://uispace.net/)                                                                         | Thousands of great UI freebies                                     |
-| [Animations.co](http://animaticons.co/)                                                                  | Beautiful, customizable animated GIF icons                         |
-| [Uplabs](https://www.uplabs.com/)                                                                        | High-quality design resources (Free & Premium)                     |
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups     |
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
 | [Avataaars](https://avataaars.com/)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
 | [Blush](https://blush.design/)                                                                           | Free customizable illustrations with Figma Plugin                  |
 | [Hero Patterns](http://www.heropatterns.com/)                                                            | A collection of repeatable SVG background patterns                 |
 | [BEAUBUS Patterns](https://patterns.beaubus.com/)                                                        | A set of 150+ free SVG patterns (backgrounds)                       |
-| [IsoFlat](https://isoflat.com/)                                                                          | A Free collection of Isometric SVG graphic resources               |
 | [IRA Design](https://iradesign.io/)                                                                      | An open-source gradient illustrations collection by creative tim.   |
 | [Transparent Textures](https://www.transparenttextures.com/) | A collection of transparent textures background patterns. |
 | [icons8.com/illustrations](https://icons8.com/illustrations) | Vector illustrations to class up your project |
@@ -93,7 +89,9 @@
 | [CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients/) | Generate CSS Gradients For Shadows. |
 | [Creatica](https://creatica.app/backgrounds) | Generate unique beautiful and unique Backgrounds and patterns. |
 | [Boring Avatars](https://boringavatars.com/) | SVG random, cutely avatars collections |
- | [Html to Design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) | Convert any website into fully editable Figma designs |
+| [Html to Design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) | Convert any website into fully editable Figma designs |
+| [fffuel](https://www.fffuel.co) | collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -155,6 +153,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [Colorlab](https://getcolorlab.com) | Create color palette, gradients, color scales, check contrast all in one place.
 | [Color Brewer 2](https://colorbrewer2.org/)| The original color palette generator, also supporting color blindness. Probably the scientifically best option. Also probably not the prettiest. |
 | [Huetone](https://github.com/ardov/huetone)| A tool to create accessible color systems. |
 | [Colormind.io](http://colormind.io)| Color palette generator |
@@ -293,6 +292,9 @@
 | [Unicorn Icons](https://unicornicons.com) | 100+ customizable playful animated icons. Available in JSON and SVG format. |
 | [Sargam Icons](https://sargamicons.com/) | A collection of 275+ open-source icons available for Figma, SVGs, and React. |
 | [Icon buddy](https://iconbuddy.app/) | A collection of 100K+ open-source SVG icons, fully customizable for designers and developers. |
+| [Round Icons](https://roundicons.com/) | The world's biggest premium and free icon packs library of flat icons, line icons, filled outline, isometric and solid styles. |
+| [Vectopus](https://vectopus.com) | Top curated collective resources for elite designers. |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -791,6 +793,7 @@
 | [Moving Letters](https://tobiasahlin.com/moving-letters/)| Animated Text with JavaScript and anime.js|
 | [CSS Layout](https://csslayout.io/)| A collection of popular web layouts and patterns in pure CSS |
 | [CSS Grid Generator](https://cssgrid-generator.netlify.app/)| An open-source project that allow users to quickly create dynamic layout based on CSS Grid. |
+| [HTML Table Generator](https://www.htmltables.io/) | Create semantic, responsive & accessible HTML tables to represent your tabular data. Set CSS properties, generate the code and copy & paste into your project.
 | [Codyhouse](https://codyhouse.co/)| Kick-start your web projects with CodyHouse's front-end framework and library of accessible HTML, CSS, JavaScript components  |
 | [Tailwind Starter Kit](https://github.com/creativetimofficial/tailwind-starter-kit)| Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source  |
 | [Tailwindtoolbox](https://www.tailwindtoolbox.com/)| Open source starter templates and components, a plugins directory and useful tools/utilities to kick start your Tailwind CSS project. |
@@ -907,6 +910,9 @@
 | [React Aria](https://react-spectrum.adobe.com/react-aria/) | A library of React Hooks that provides accessible UI primitives for your design system. |
 | [shadcn/ui](https://ui.shadcn.com/) | Beautifully designed components built with Radix UI and Tailwind CSS. |
 | [Tremor](https://tremor.so/) | React components to build charts and dashboards with |
+| [Aceternity UI](https://ui.aceternity.com/)| Copy paste the most trending components and use them in your websites without having to worry about styling and animations. |
+| [Magic UI](https://magicui.design/)| free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion. | 
+| [Code UI](https://www.codeui.co.in/)| Beautifully designied mobile responsive components built with HTML, CSS , JS and React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -936,7 +942,7 @@
 | [Vuesax](https://vuesax.com/)|Unique and reusable UI components |
 | [Antdv](https://antdv.com/)|UI library for Vue based on Ant Design |
 | [Shards Vue](https://designrevision.com/downloads/shards-vue/)|A high-quality & free Vue UI kit featuring a modern design system with dozens of custom components |
-| [Prime Vue](https://www.primefaces.org/primevue/)|Powerful yet simple to use, versatile, performant Vue UI Component Library to help you build stunning user interfaces.|
+| [Prime Vue](https://primevue.org/)|Powerful yet simple to use, versatile, performant Vue UI Component Library to help you build stunning user interfaces.|
 | [Chakra UI Vue](https://vue.chakra-ui.com/)|Chakra UI is a simple modular and accessible component library that gives you the building blocks to build Vue applications with speed.|
 | [View UI](https://www.iviewui.com/)|Dozens of useful and beautiful Vue components made for people with all skill levels with extensive documentation.|
 | [@tsparticles/vue2](https://github.com/tsparticles/vue2)| A lightweight Vue 2.x component for creating particles |
@@ -1011,6 +1017,8 @@
 | [Aceternity UI Svelte](https://aceternity.sveltekit.io/)| Free Incredible Animated Components.|
 | [Svelte UX](https://svelte-ux.techniq.dev/)| Collection of Svelte components, actions, stores, and utilities to build highly interactive applications. |
 | [Flowbite-Svelte](https://flowbite-svelte.com/)| Flowbite-svelte is an open-source UI component library built with Svelte components, Tailwind CSS utility classes and based on the Flowbite design system |
+| [bits-ui](https://www.bits-ui.com/) | The headless components for Svelte |
+| [melt-ui](https://melt-ui.com) | A set of headless, accessible component builders for Svelte |
 
 
 <div align="right">
@@ -1212,11 +1220,8 @@
 | [Behance](https://www.behance.net/)| Design projects featured by different creators |
 | [Dribbble](https://dribbble.com/)| Design projects featured by different creators |
 | [Landingfolio](https://landingfolio.com/)| Landingfolio features the best landing page inspiration, templates, resources and examples on the web. |
-| [Codewell](https://www.codewell.cc/)| Practice your HTML, CSS, and Javascript skills on real world design templates |
 | [Foxyapps](https://foxyapps.co/)| Design inspiration from the best mobile app designs |
 | [Httpster](https://httpster.net/2020/apr/)| Showcases websites made by people from all over the world |
-| [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community  |
-| [Design Notes](https://www.designnotes.co/)| Free online resource library for product designers |
 | [Land Book](https://land-book.com/)| Displays a large collection of websites to help find inspiration  |
 | [Frontend Mentor](https://www.frontendmentor.io/)| Real-world UI Challenges using HTML, CSS and Javascript |
 | [Awwwards](https://www.awwwards.com/)| A website that rate and collects the best websites in the world in UI |
@@ -1235,11 +1240,9 @@
 | [Web Design Inspiration](https://www.webdesign-inspiration.com/) | A site for web design inspiration, updated daily.  |
 | [NavNav](https://navnav.co/) | Responsive navigation examples |
 | [Calltoidea](https://www.calltoidea.com/) | Collection of different web Components for inspiration. |
-| [MediaQueri.es](https://mediaqueri.es/) | A collection of inspirational websites using media queries and responsive web design |
 | [Mulzli Search](https://search.muz.li) | Search engine for design inspiration |
 | [DeviantArt](https://www.deviantart.com/) | Access to 370 million pieces of art for inspiration. |
 | [Design your way](https://www.designyourway.net/blog/web-and-mobile-design/) | Collection of different Web and Mobile Designs |
-| [Humans.fyi](https://humans.fyi/) | A collection of brilliant personal websites filterable by colors and web technologies used in each website. |
 | [SiteSee](https://sitesee.co/) | A curated gallery of beautiful and modern websites. |
 | [UI Garage](https://uigarage.net/) | Daily handpicked UI inspiration & patterns. |
 | [ecomm.design](https://ecomm.design/) | eCommerce Website Design Gallery & Tech Inspiration. |
@@ -1287,6 +1290,8 @@
 | [Watermarkly](https://watermarkly.com/compress-jpeg/) | Private, client-side compression of JPEG images. The app does not send images to a server for processing. |
 | [Jpeg.io](https://www.jpeg.io) | Convert any major image format into a highly optimized JPEG |
 | [CompressImage.io](https://compressimage.io) | Compress JPG and PNG images. No Limits. Bulk Conversion. Convert to WebP. Works Offline |
+| [JPEG Compressor](https://jpegcompressor.com/) | free image compressor tool and it support JPEG, PNG, SVG, JPG, WEBP and GIF. |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1455,6 +1460,8 @@
 | [Code Beautify](https://codebeautify.org/) | Free Online Tools like Code Beautifiers, Code Formatters, Editors, Viewers, Minifier, Validators, Converters for Developers|
 | [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/) | An interactive cheatsheet of Vue, Vue Router, and Pinia. The only Vue CheatSheet you will ever need. |
 | [appydev](https://appydev.co/) | A collection of awesome tools, resources and products for people who create and live on the internet. |
+| [ExtendsClass](https://extendsclass.com/) | Free online tools for developers, including image compressors/encoders, code formatters, code playgrounds, and many other handy utilities. |
+| [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |
 
 
 ## personal
