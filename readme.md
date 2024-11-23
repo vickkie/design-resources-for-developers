@@ -1476,6 +1476,7 @@
 | [Background remover](https://www.experte.com/background-remover) | Free background remover|
 | [Best mockups](https://mockcity.com/) | Free placement psd / use behance
 | [Fluid Fonts](https://www.fluid-type-scale.com) | Fluid Font size Design
+| [Text Svg](https://danmarshall.github.io/google-font-to-svg-path) | Text Font to svg
 
 
 <div align="right">
