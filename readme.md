@@ -67,7 +67,6 @@
 | [Transparent Textures](https://www.transparenttextures.com/) | A collection of transparent textures background patterns. |
 | [icons8.com/illustrations](https://icons8.com/illustrations) | Vector illustrations to class up your project |
 | [Patternico](https://patternico.com) | Seamless Pattern Maker |
-| [Freellustrations](https://www.freellustrations.com/) | Free Background Images for awesome landing Pages |
 | [Pixeltrue Illustrations](https://www.pixeltrue.com/illustrations) | Free Animated Illustrations |
 | [Abstract User Avatar API](https://www.abstractapi.com/user-avatar-api) | API to create simple yet flexible user avatars from user names or emails |
 | [sketchvalley](https://sketchvalley.com/) | Download free PNG, SVG or AI file . |
@@ -109,7 +108,8 @@
 | [1001 Free Fonts](https://www.1001freefonts.com/)| I think the name speaks for itself :smirk: |
 | [Font Squirrel](https://www.fontsquirrel.com/)| Font Squirrel scours the internet for high quality, legitimately free fonts |
 | [Font Fabric](https://www.fontfabric.com/free-fonts/)| A digital type foundry crafting retail fonts and custom typography for various brands |
-| [Tiff](https://tiff.herokuapp.com/)| A type diff tool that visually contrasts the differences between two fonts  |
+| [Just Free Fonts](https://justfreefonts.com/)| A hand-curated collection of freeware, open-source, and public domain fonts intended for commercial use |
+| [Tiff](https://winniethemu.github.io/tiff/)| A type diff tool that visually contrasts the differences between two fonts  |
 | [TypeKit Practice](https://practice.typekit.com/)| Learn about typography practices |
 | [Fontjoy](https://fontjoy.com/)| Generate font pairing in one click |
 | [Golden Ratio](https://grtcalculator.com/)| Golden Ratio Typography Calculator |
@@ -217,12 +217,13 @@
 | [Eggradients](https://www.eggradients.com/) | Gradient Background Colors with eggs.|
 | [Gradientos](https://www.gradientos.app/) | Find and test gradients easily. |
 | [Encycolorpedia](https://encycolorpedia.com/) | Website for referencing web colors. Color knowledge, Web colors, Hex color codes. |
-| [Croma](https://croma.app/) | A website for pick colors quickly from image or manually. It's color picker is easier to use. |
+| [Croma](https://chroma.dev/) | Powerful color tools including an eyedropper, color picker, and palette generator. |
 | [Color Designer](https://colordesigner.io/gradient-generator) | A gradient generetor from one color. |
 | [Duotone](https://duotone.shapefactory.co/) | Find beautiful free duotone images to use in any project, or make custom duotone images by uploading your own image and applying a duotone effect in seconds. |
 | [coolbackgrounds generator](https://coolbackgrounds.io/) | Explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites. |
 | [Color Shades Generator](https://mdigi.tools/color-shades/) | We can quickly generate color shades of our favorite colors or any colors, to create templates or css components with multiple color shades and more useful tools available on same site |
 | [Huemint](https://huemint.com/) | Huemint uses machine learning to create unique color schemes for your brand, website or graphic |
+| [InclusiveColors palette creator](https://www.inclusivecolors.com/) | Create custom accessible Tailwind-style color palettes, where you can modify HSL curves across whole swatches, check WCAG/APCA contrast, then export to Tailwind/CSS/Figma/Adobe |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -495,6 +496,7 @@
 | [Haikei](https://app.haikei.app/) | An awesome multishape web app. |
 | [Vector](https://vector.ma/) | Awesome website for all kinds of Moroccan vectors. |
 | [Heazy](https://app.heazy.studio/) | Unique vector assets within seconds. |
+| [Mossaik](https://mossaik.app/) | Free SVG generator with different tools, waves, tiles, blobs, and more. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -522,7 +524,7 @@
 | [Clean Mock](https://cleanmock.com/)| Create stunning mockups using latest device frames like iPhone X & custom backgrounds that make your mobile or website design standout, right from your browser quickly & for free. |
 | [Mock.Video](https://www.mock.video/)| Instantly create mockups by adding a device frame to your videos. |
 | [MockupBro](https://mockupbro.com/)| Create product mockups with online mockup generator! Just choose a mockup, upload your design and download your image without a watermark. |
-| [Animockup](https://animockup.com/)| Create animated mockups in the browser 🔥. |
+| [Animockup](https://github.com/alyssaxuu/animockup)| Create animated mockups in the browser 🔥. |
 | [Pika](https://pika.style)| Instantly create browser mockups and beautiful images for marketing, blog post and more |
 | [Lunacy](https://icons8.com/lunacy)| Create mockups from scratch for free  |
 
@@ -541,7 +543,6 @@
 | [FreeHTML5](https://freehtml5.co/)| Free & premium HTML5 and Bootstrap themes |
 | [StyleShout](https://www.styleshout.com/free-templates/)| Brilliantly crafted free website templates |
 | [Start Bootstrap](https://startbootstrap.com/)| Bootstrap starter themes |
-| [Zerotheme](https://www.zerotheme.com/)| HTML5, Bootstrap, Prestashop templates |
 | [HTML5xCSS3](https://www.html5xcss3.com/)| Collection of wonderful templates in different categories |
 | [ThemeWagon](https://themewagon.com/theme-price/free/)| Collection of HTML5 Bootstrap templates from different categories |
 | [Colorlib](https://colorlib.com/wp/templates/)| Almost any category of theme you can think of |
@@ -640,6 +641,7 @@
 | [UnoCSS](https://unocss.dev/) | UnoCSS is the instant atomic CSS engine, that is designed to be flexible and extensible. The core is un-opinionated, and all the CSS utilities are provided via presets. |
 | [Neptune CSS](neptunecss.org) | Neptune CSS is a lightweight CSS framework. Use it to develop your websites faster. |
 | [StyleX](https://stylexjs.com/) | StyleX is a simple, easy-to-use JavaScript syntax and compiler for styling web apps. |
+| [Orbit](https://github.com/zumerlab/orbit) | Orbit is the first CSS framework for creating simple or complex radial interfaces. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -832,6 +834,8 @@
 |[Pines](https://devdojo.com/pines) | Pines is a library of animations, sliders, tooltips, accordions, modals, and more! It's a set of UI elements that can be copy and pasted into any Alpine and Tailwind projects. |
 |[Kuma UI](https://www.kuma-ui.com/) | With Kuma UI's headless, zero-runtime UI components, build top-performing websites effortlessly, while enjoying the best developer experience. Say hello to the future of CSS-in-JS. |
 |[Preline UI](https://preline.co/index.html) | Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. |
+|[Flyon UI](https://flyonui.com/) | The Easiest Components Library For Tailwind CSS.|
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -864,7 +868,7 @@
 | [Theme UI](https://theme-ui.com/home)| Build consistent, themeable React apps based on constraint-based design principles |
 | [Onsen React](https://onsen.io/react/)| Distributes Components for hybrid mobile apps with React and Onsen UI |
 | [Evergreen](https://evergreen.segment.com/)| Design system for React |
-| [Rebass](https://rebassjs.org/)| React primitive UI components built with styled system |
+| [Rebass](https://github.com/rebassjs/rebass)| React primitive UI components built with styled system |
 | [Grommet](https://v2.grommet.io/)| mobile first UI component library |
 | [Landing Page Template](https://github.com/cruip/open-react-template/)| Open source landing page template for react |
 | [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps |
@@ -913,6 +917,7 @@
 | [Aceternity UI](https://ui.aceternity.com/)| Copy paste the most trending components and use them in your websites without having to worry about styling and animations. |
 | [Magic UI](https://magicui.design/)| free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion. | 
 | [Code UI](https://www.codeui.co.in/)| Beautifully designied mobile responsive components built with HTML, CSS , JS and React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable. |
+| [Edil Ozi](https://www.edilozi.pro/)| Component Library for Developers. Open Source components you can copy and paste to your apps. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -966,6 +971,7 @@
 | [Vue Final Modal](https://vue-final-modal.org/) | Vue Final Modal is a tiny, renderless, mobile-friendly, feature-rich modal component for Vue.js. |
 | [Vuetensils](https://vuetensils.stegosource.com/) | Vuetensils is a lightweight component library for Vue 2.x that brings some of most common UI features, but only the bare minimum styles to avoid adding any extra bloat. You can work on the branding, and don't have to worry about the accessibility. |
 | [NuxtLabs UI](https://ui.nuxtlabs.com/getting-started) | Fully styled and customizable components for Nuxt. |
+| [shadcn-vue](https://www.shadcn-vue.com/) | Vue port of shadcn-ui. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -982,7 +988,7 @@
 | [PrimeNG](https://www.primefaces.org/primeng/#/)| Powerful UI component library for Angular |
 | [Onsen Angular](https://onsen.io/angular2/)| Hybrid mobile and PWA UI library for Angular and Onsen UI |
 | [NG Lightning](https://ng-lightning.github.io/ng-lightning/#/)| Native Angular components & directives for Lightning Design System |
-| [NG Semantic](https://ng-semantic.herokuapp.com/)| UI library for Angular based on Semantic UI |
+| [NG Semantic](https://github.com/vladotesanovic/ngSemantic)| UI library for Angular based on Semantic UI |
 | [Nebular](https://akveo.github.io/nebular/)| Customizable UI Kit, Auth & Security for Angular |
 | [Alyle UI](https://alyle.io/)| Minimal components set for Angular |
 | [NGX Bootstrap](https://valor-software.com/ngx-bootstrap/#/)| Another UI library for Angular based on the Bootstrap framework |
@@ -994,6 +1000,7 @@
 | [Clarity](https://clarity.design/)| CSS based Angular UI framework developed by VMware group |
 | [Taiga UI](https://taiga-ui.dev/)| Taiga UI is fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons. |
 | [ngx-admin](https://akveo.github.io/ngx-admin/)| Admin template based on Angular 10+ and Nebular |
+| [spartan](https://www.spartan.ng/)| Cutting-edge tools powering Angular full-stack development. |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -1007,7 +1014,6 @@
 | [Svelte Material UI](https://sveltematerialui.com/)| UI library for Svelte based on Material Design |
 | [SvelteStrap](https://bestguy.github.io/sveltestrap/)| UI library for Svelte based on the Bootstrap framework |
 | [Svelte Flat UI](https://svelteui.js.org/)|UI library for Svelte based on Flat Design |
-| [@tsparticles/svelte](https://github.com/matteobruni/tsparticles/svelte)| A lightweight Svelte component for creating particles |
 | [Attractions](https://illright.github.io/attractions/)| A pretty cool UI kit for Svelte |
 | [Svelteit](https://docs.svelteit.dev)| A minimalistic UI/UX component library for Svelte and Sapper projects |
 | [Carbon Components Svelte](https://carbon-components-svelte.onrender.com/)| A component library that implements the Carbon Design System, an open source design system by IBM.|
@@ -1258,6 +1264,9 @@
 | [Bento Grids](https://bentogrids.com/)| Bento Grids is a curated collection of tiles-based layouts that were popularized by Apple with their summary slides. |
 | [Landing Gallery](https://www.landing.gallery/)| Home of the best landing page design inspiration. |
 | [a-fresh.website](https://a-fresh.website)| Hand—picked website and component inspiration library. |
+| [bestwebdesigntools](https://www.bestwebdesigntools.com/)| Discover latest design tools, agencies and landing pages templates across web|
+| [App Motion](https://appmotion.design/)| Explore the best, hand-picked app motion design |
+| [Uiland Design](https://uiland.design/)| Home of the best mobile ui inspirations from top companies in the world |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1349,8 +1358,8 @@
 
 >Useful Firefox extensions for Designers and Web-Developers.
 
-| Extension                                                                                                           | Description |
-|---------------------------------------------------------------------------------------------------------------------| ----------- |
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
 | [WhatFont](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/)                                            | Identify fonts on web pages |
 | [WhatRuns](https://addons.mozilla.org/en-US/firefox/addon/whatruns/)                                                | Discover technologies used on websites |
 | [Web Developer](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)                                      | Toolbar for web development tasks |
@@ -1462,6 +1471,7 @@
 | [appydev](https://appydev.co/) | A collection of awesome tools, resources and products for people who create and live on the internet. |
 | [ExtendsClass](https://extendsclass.com/) | Free online tools for developers, including image compressors/encoders, code formatters, code playgrounds, and many other handy utilities. |
 | [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |
+| [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
 
 
 ## personal
