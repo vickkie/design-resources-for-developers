@@ -1487,6 +1487,7 @@
 | [Best mockups](https://mockcity.com/) | Free placement psd / use behance
 | [Fluid Fonts](https://www.fluid-type-scale.com) | Fluid Font size Design
 | [Text Svg](https://danmarshall.github.io/google-font-to-svg-path) | Text Font to svg
+| [Manifest generator](https://www.mridul.tech/tools/manifest-generator) | Manifest generator
 
 
 <div align="right">
