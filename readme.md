@@ -90,6 +90,7 @@
 | [Boring Avatars](https://boringavatars.com/) | SVG random, cutely avatars collections |
 | [Html to Design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) | Convert any website into fully editable Figma designs |
 | [fffuel](https://www.fffuel.co) | collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds |
+| [Mesher](https://csshero.org/mesher) | A Free tool to create beautiful mesh gradients only with CSS code. Use your own colors or randomly generated ones to build the trendiest CSS gradients |
 
 
 <div align="right">
@@ -224,6 +225,7 @@
 | [Color Shades Generator](https://mdigi.tools/color-shades/) | We can quickly generate color shades of our favorite colors or any colors, to create templates or css components with multiple color shades and more useful tools available on same site |
 | [Huemint](https://huemint.com/) | Huemint uses machine learning to create unique color schemes for your brand, website or graphic |
 | [InclusiveColors palette creator](https://www.inclusivecolors.com/) | Create custom accessible Tailwind-style color palettes, where you can modify HSL curves across whole swatches, check WCAG/APCA contrast, then export to Tailwind/CSS/Figma/Adobe |
+| [AiSeka](https://www.aiseka.com/) | Discover Created the best Color Palette & Color Tools. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -543,7 +545,6 @@
 | [FreeHTML5](https://freehtml5.co/)| Free & premium HTML5 and Bootstrap themes |
 | [StyleShout](https://www.styleshout.com/free-templates/)| Brilliantly crafted free website templates |
 | [Start Bootstrap](https://startbootstrap.com/)| Bootstrap starter themes |
-| [HTML5xCSS3](https://www.html5xcss3.com/)| Collection of wonderful templates in different categories |
 | [ThemeWagon](https://themewagon.com/theme-price/free/)| Collection of HTML5 Bootstrap templates from different categories |
 | [Colorlib](https://colorlib.com/wp/templates/)| Almost any category of theme you can think of |
 | [Free CSS](https://www.free-css.com/free-css-templates)| Huge collection of free templates |
@@ -669,6 +670,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [Gradienty Animations](https://gradienty.codes/animations)| Over 600+ Curated Animations ready to copy & paste. |
 | [Animate.css](https://animate.style/)| Just-add-water CSS animations |
 | [Bounce.js](http://bouncejs.com/)| Bounce.js is a tool and JS library that lets you create beautiful CSS3 powered animations  |
 | [Anime.js](https://animejs.com/)| Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects  |
@@ -763,6 +765,9 @@
 | [AntV](https://ant-design-charts.antgroup.com/en/)|Ant Design Charts, free JS Charts library for dynamic data with excellent documentation |
 | [Nivo](https://nivo.rocks/)|Nivo provides supercharged React components to easily build dataviz apps, it's built on top of d3. Also comes with server side rendering ability and fully declarative charts.|
 | [Echarts](https://echarts.apache.org/en/index.html)|An Open Source JavaScript Visualization Library with declarative syntax for Rapid Construction of Web-based Visualization |
+| [VChart](https://visactor.io/vchart)|VChart is not only a multi-terminal chart library that can be used out of the box, but also a vivid and flexible data storyteller.|
+| [VTable](https://visactor.io/vtable)|VTable is a high-performance multidimensional analysis component developed based on Canvas. When compared with traditional DOM table components, VTable primarily addresses rendering and interaction performance issues in the context of large amounts of data.|
+| [VStory](https://visactor.io/vstory)|VStory is a feature-rich narrative system that can use VisActor's VChart and VTable, combined with built-in components, to create visual works. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1222,6 +1227,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [Websitevice](https://websitevice.com/) | A curated gallery of professional website designs to inspire developers and designers seeking creative ideas and best practices. |
 | [CSS Zen Garden](http://csszengarden.com/) | Demonstrating the power of CSS, over 200 CSS-only interpretations of the same HTML file. |
 | [Behance](https://www.behance.net/)| Design projects featured by different creators |
 | [Dribbble](https://dribbble.com/)| Design projects featured by different creators |
@@ -1398,6 +1404,8 @@
 | [Leonardo.Ai](https://leonardo.ai/) | Leonardo AI is an AI-powered design tool that can help you create designs based on reference images. |
 | [Galileo AI](https://www.usegalileo.ai/) | Galileo AI is a UI generation platform for easy and fast design ideation. It allows users to generate interface designs from text. |
 | [ImgGen.Ai](https://imggen.ai/) | ImgGen AI is a free AI-powered image generator and enhancement tool. |
+| [Unblurimage.Ai](https://unblurimage.ai/) | Unblurimage AI is 100% Free,No Sign-Up online tool for unblur image. |
+| [VMind](https://visactor.io/vmind) | VMind is an intelligent visualization suit that provides intelligent interfaces through rule algorithms, machine learning, and LLM. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
