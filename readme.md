@@ -337,6 +337,8 @@
 | [Favicon.cc](https://www.favicon.cc) | Draw a favicon online and browse through a library of favicons made by other users |
 | [Maskable.app Editor](https://maskable.app/editor/) | Generate maskable PWA icons based on your existing icon |
 | [Favicon Generator](https://favicon.inbrowser.app/) | Generate website's favicon assets. SVG, maskable, image minified supported. Pure frontend. No privacy risk. Fast.|
+| [FaviFiles](https://favifiles.com/)| Generate pixel-perfect favicons for free in seconds |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -780,6 +782,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [CSSnippets](https://cssnippets.shefali.dev)| Explore a vast collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more. |
 | [Bit](https://bit.dev/components)| Provides a huge library of reuseable UI Components for React, Angular, Vue, React Native. Also can be used for sharing UI Components among other team members |
 | [UILang](http://uilang.com/)| A minimal, UI-focused programming language for web designers |
 | [Medialoot CSS Components](https://medialoot.com/free-themes/css-components/)| Calendars, price grids and other UI components |
@@ -841,6 +844,8 @@
 |[Kuma UI](https://www.kuma-ui.com/) | With Kuma UI's headless, zero-runtime UI components, build top-performing websites effortlessly, while enjoying the best developer experience. Say hello to the future of CSS-in-JS. |
 |[Preline UI](https://preline.co/index.html) | Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. |
 |[Flyon UI](https://flyonui.com/) | The Easiest Components Library For Tailwind CSS.|
+|[Shadcnui Blocks](https://www.shadcnui-blocks.com/)| Effortless Shadcn UI Component Previews & Code Snippets. |
+|[Shadcn studio](https://shadcnstudio.com/)| Preview your theme changes across different components and layouts. |
 
 
 <div align="right">
@@ -859,7 +864,7 @@
 | [React Bootstrap](https://react-bootstrap.github.io/)| Bootstrap rebuilt for React. Include Bootstrap components right in your JavaScript |
 | [Semi Design](https://semi.design/en-US)| A modern, comprehensive, flexible design system that gives you all modular blocks you need to build sensible web apps & SaaS products. |
 | [Mantine](https://mantine.dev/)| React components and hooks library with native dark theme support focused on usability, accessibility and developer experience. |
-| [NextUI](https://nextui.org/)| Beautiful, fast and modern React UI library that allows you to create beatiful websites regardless of your design experience. |
+| [HeroUI - Previously NextUI](https://www.heroui.com/)| Beautiful, fast and modern React UI library that allows you to create beatiful websites regardless of your design experience. |
 | [Arco Design](https://arco.design/en-US)| A comprehensive React UI components library based on the Arco Design system. |
 | [ui-playbook](https://uiplaybook.dev/)| The documented collection of UI components |
 | [ReactStrap](https://reactstrap.github.io/)| Another Bootstrap UI library for React |
@@ -924,6 +929,7 @@
 | [Magic UI](https://magicui.design/)| free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion. | 
 | [Code UI](https://www.codeui.co.in/)| Beautifully designied mobile responsive components built with HTML, CSS , JS and React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable. |
 | [Edil Ozi](https://www.edilozi.pro/)| Component Library for Developers. Open Source components you can copy and paste to your apps. |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
