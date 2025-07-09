@@ -51,7 +51,6 @@
 | [Sketch App Sources](https://www.sketchappsources.com/)                                                  | Sketch UIs, wireframes, icons and much more                        |
 | [Humaaans](https://www.humaaans.com/)                                                                    | Cool illustrations of people with the ability to mix and match     |
 | [Paaatterns](https://products.ls.graphics/paaatterns/)                                                   | Free collection of beautiful patterns for all vector formats       |
-| [404 illustration](https://error404.fun/)                                                                | Free illustrations for 404  pages                                  |
 | [Drawkit.io](https://www.drawkit.io/)                                                                    | Illustrations for designers and startups                           |
 | [Absurd.design](https://absurd.design/)                                                                  | Free surrealist illustrations for designers and developers         |
 | [Undraw.co](https://undraw.co/)                                                                          | Open-source illustrations for any idea you can imagine and create  |
@@ -917,6 +916,7 @@
 | [React Use Smooth Scroll](https://github.com/saidMounaim/React-Use-Smooth-Scroll)| React Provider Component to add a smooth scroll effect |
 | [Choc UI](https://choc-ui.com/)| Choc UI is a set of accessible and reusable components that are commonly used in web applications. |
 | [Elementz](https://elementz.style/)| A React Component library for buliding modern applications easily & quickly. |
+| [Base UI](https://github.com/mui/base-ui)| Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. |
 | [Radix UI](https://www.radix-ui.com/)| Unstyled, accessible components for building high‑quality design systems and web apps in React |
 | [Materio MUI React NextJS Admin Template](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free)| Most Powerful & Comprehensive Open-source MUI React NextJS Admin Dashboard Template built for developers. |
 | [Chakra Templates](https://chakra-templates.dev/)| A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project. |
@@ -928,7 +928,7 @@
 | [Aceternity UI](https://ui.aceternity.com/)| Copy paste the most trending components and use them in your websites without having to worry about styling and animations. |
 | [Magic UI](https://magicui.design/)| free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion. | 
 | [Code UI](https://www.codeui.co.in/)| Beautifully designied mobile responsive components built with HTML, CSS , JS and React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable. |
-| [Edil Ozi](https://www.edilozi.pro/)| Component Library for Developers. Open Source components you can copy and paste to your apps. |
+| [Edil Ozi](https://www.edil-ozi.pro/)| Component Library for Developers. Open Source components you can copy and paste to your apps. |
 
 
 <div align="right">
@@ -1090,7 +1090,6 @@
 | [Fundamental Library](https://sap.github.io/fundamental-styles/)| Open source and community driven project for consistent user interfaces|
 | [Infor Design](https://design.infor.com/)| Guidelines and resources to create meaningful experiences for Infor’s products |
 | [Lexicon](https://liferay.design/lexicon/)| An experience language for crafting beautiful UI |
-| [Mailchimp UI/UX](https://ux.mailchimp.com/patterns/color)| Style guide and components from Mailchimp |
 | [Marvel Style Guide](https://marvelapp.com/styleguide/overview/introduction)| Set of design principles and components |
 | [Microsoft Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)| Collection of UX frameworks from Microsoft |
 | [Pluralsight Design System](https://design-system.pluralsight.com/)| Design guide with components for designing with Pluralsight |
@@ -1341,7 +1340,6 @@
 | [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) | Inserts the Pesticide CSS into the current page, outlining each HTML element to better see placement on the page, helpful for building layouts. |
 | [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh) | A must-have tool for designers and frontend developers to grab colors for any website. |
 | [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies |
-| [Lorem Ipsum Generator (Default Text)](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en%20) | Provides an elegant and quick way to create default text or generate Lorem Ipsum. Optimized for quick usage, but it can be customized. |
 | [JavaScript and CSS Code Beautifier](https://chrome.google.com/webstore/detail/javascript-and-css-code-b/iiglodndmmefofehaibmaignglbpdald?hl=en) | Beautify CSS, JavaScript and JSON code when you open a .css/.js/.json file |
 | [Imageye - Image downloader](https://chrome.google.com/webstore/detail/imageye-image-downloader/agionbommeaifngbhincahgmoflcikhm) | Find and download all images on a web page. With Imageye you can find, browse and download all the images present in a web page. |
 | [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) | Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions! |
