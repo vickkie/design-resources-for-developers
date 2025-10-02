@@ -297,6 +297,7 @@
 | [Icon buddy](https://iconbuddy.app/) | A collection of 100K+ open-source SVG icons, fully customizable for designers and developers. |
 | [Round Icons](https://roundicons.com/) | The world's biggest premium and free icon packs library of flat icons, line icons, filled outline, isometric and solid styles. |
 | [Vectopus](https://vectopus.com) | Top curated collective resources for elite designers. |
+| [IconShelf](https://iconshelf.com/) | Access 250,000+ open-source SVG icons you can customize to fit any design or development project. |
 
 
 <div align="right">
@@ -712,7 +713,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [Greensock](https://greensock.com/)| A JavaScript library for building high-performance animations that work in every major browser |
+| [GSAP](https://gsap.com/)| A JavaScript library for building high-performance animations that work in every major browser |
 | [Velocity.js](http://velocityjs.org/)| Velocity is a lightweight animation engine with the same API as jQuery's $.animate() |
 | [lax.js](https://github.com/alexfoxy/laxxx)| Simple & light weight vanilla javascript plugin to create smooth & beautiful animations when you scroll! |
 | [Rellax.js](https://github.com/dixonandmoe/rellax)| A buttery smooth, super lightweight, vanilla javascript parallax library |
@@ -843,8 +844,6 @@
 |[Sonner](https://sonner.emilkowal.ski/) | An opinionated toast component for React. |
 |[Pines](https://devdojo.com/pines) | Pines is a library of animations, sliders, tooltips, accordions, modals, and more! It's a set of UI elements that can be copy and pasted into any Alpine and Tailwind projects. |
 |[Kuma UI](https://www.kuma-ui.com/) | With Kuma UI's headless, zero-runtime UI components, build top-performing websites effortlessly, while enjoying the best developer experience. Say hello to the future of CSS-in-JS. |
-|[Preline UI](https://preline.co/index.html) | Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. |
-|[Flyon UI](https://flyonui.com/) | The Easiest Components Library For Tailwind CSS.|
 |[Shadcnui Blocks](https://www.shadcnui-blocks.com/)| Effortless Shadcn UI Component Previews & Code Snippets. |
 |[Shadcn studio](https://shadcnstudio.com/)| Preview your theme changes across different components and layouts. |
 
@@ -931,6 +930,7 @@
 | [Magic UI](https://magicui.design/)| free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion. | 
 | [Code UI](https://www.codeui.co.in/)| Beautifully designied mobile responsive components built with HTML, CSS , JS and React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable. |
 | [Edil Ozi](https://www.edil-ozi.pro/)| Component Library for Developers. Open Source components you can copy and paste to your apps. |
+| [Shadcn Templates](https://shadcntemplates.com/)| Free collection of Shadcn UI templates, components, blocks, boilerplates, and more. |
 
 
 <div align="right">
