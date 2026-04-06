@@ -1534,6 +1534,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Text Svg](https://danmarshall.github.io/google-font-to-svg-path) | Text Font to svg
 | [Manifest generator](https://www.mridul.tech/tools/manifest-generator) | Manifest generator
 | [MrMockup Psd mocks ](https://mrmockup.com/) | Free Mockup PSD files / Behance
+| [Logo Maker ](https://chat.brandmark.io/) | Free Logos Maker / BrandMark
 
 
 <div align="right">
