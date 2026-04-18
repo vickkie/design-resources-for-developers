@@ -956,6 +956,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Edil Ozi](https://www.edil-ozi.pro/)| Component Library for Developers. Open Source components you can copy and paste to your apps. |
 | [Shadcn Templates](https://shadcntemplates.com/)| Free collection of Shadcn UI templates, components, blocks, boilerplates, and more. |
 | [Eldora UI](https://eldoraui.site/)| Collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates. |
+| [StyleSeed](https://github.com/bitjaru/styleseed)| Design engine that makes Claude Code and Cursor produce professional UI. 48 shadcn-style React components, 69 design rules, 11 AI slash-command skills, and swappable brand skins (Toss, Stripe, Linear, Vercel, Notion) on Tailwind CSS v4 + Radix UI. |
 
 
 <div align="right">
@@ -1517,6 +1518,7 @@ Available for MacOS, Linux, & Windows<br>
 | [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
 | [ToolsHref](https://toolshref.com) - Online Java code analyzer and JSON-to-Mermaid visualization tool. Multiple Dev Tools    |
+| [Toolbox Kit](https://toolbox-kit.com/) | 150+ free browser-based developer tools: JSON formatter, diff checker, regex tester, JWT decoder, CSS generators, SVG optimizer, color tools, and hash/QR generators. Runs client-side, no signup. |
 
 
 ## personal
